@@ -5,9 +5,6 @@
 4. 那么是永久激活还是有时间限制呢,下面我们来看一下是否永久激活,右键点击桌面左下角的“W...
 5. 在打开的运行对话框中输入slmgr.vbs -xpr命令,点击确定按钮,...
 
-# Official Site 官方网站
-
-[https://cmwtat.cloudmoe.com]
 
 # CloudMoe Windows 10 Activation Toolkit Digital Edition
 
